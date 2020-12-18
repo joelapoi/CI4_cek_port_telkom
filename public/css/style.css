@@ -1,0 +1,9 @@
+.table > tbody > tr > *  {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table > thead > tr > *  {
+    vertical-align: middle;
+    text-align: center;
+}
